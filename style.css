@@ -1,0 +1,54 @@
+body{
+    background-color: #e7dfd8;
+    margin: 0px;
+    font-family: "Inter", sans-serif;
+
+}
+h2, p{
+    margin: 0px;
+    padding: 0px;
+}
+
+a{
+    text-decoration: none;
+}
+.container {
+    margin: 0px auto;
+    width: 1119px;
+}
+span {
+    width: 74px;
+    height: 74px;
+    border-radius: 100px;
+    color: #101010;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 38px;
+
+}
+/* Перша секція */
+.mickey{
+    padding-top: 99px;
+    padding-bottom: 99px;
+
+}
+.mickey-container {
+    display: flex;
+    gap: 107px;
+}
+.mickey-desc{
+  font-size: 19px;
+  color:#101010;
+  line-height: 189%;
+  display: flex;
+  align-items:center;
+  padding-bottom: 28px;
+
+}
+
+.mickey-desc span{ 
+    background-color: #b99fea;
+    margin-right:30px;
+}
+
