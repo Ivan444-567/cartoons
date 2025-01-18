@@ -39,6 +39,7 @@ span {
     line-height: 189%;
     display: flex;
     align-items: center;
+    margin-bottom: 28px;
 }
 .mickey-desc span {
 background-color: #b99fea;
@@ -51,7 +52,6 @@ margin-right: 30px;
     letter-spacing: 0.03em;
     padding-bottom: 30px;
     font-weight: 400;
-    padding-top: 29px;
 }
 .mickey-text {
     font-size: 14px;
@@ -69,41 +69,41 @@ margin-right: 30px;
     border-radius: 8px;
 }
 /*Друга секція*/
-.coco {
-    padding-top: 28px;
-    padding-bottom: 28px;  
+.koko {
+    padding-top: 113px;
+    padding-bottom: 112px;  
 }
-.coco-container {
+.koko-container {
     display: flex;
-    gap: 113px;
+    gap: 139px;
 }
-.coco-desc {
-    font-size: 1px;
+.koko-desc {
+    font-size: 19px;
     color: #101010;
     line-height: 184%;
     display: flex;
-    align-items: center; 
+    align-items: center;
+    margin-bottom: 28px;
 }
-.coco-desc span {
+.koko-desc span {
     background-color: #EBA789;
     margin-right: 21px;
 }
-.coco-title {
+.koko-title {
     color: #101010;
     line-height: 130%;
     font-size: 35px;
     letter-spacing: 0.03em;
     padding-bottom: 30px;
     font-weight: 400;
-    padding-top: 29px;
 }
-.coco-text {
-    font-size: 29px;
+.koko-text {
+    font-size: 14px;
     line-height: 158%;
     color: #101010;
     padding-bottom: 35px;
 }
-.coco-link {
+.koko-link {
     background-color: #EBA789;
     color: #000000;
     font-size: 16px;
@@ -126,6 +126,7 @@ margin-right: 30px;
     line-height: 189%;
     display: flex;
     align-items: center; 
+    margin-bottom: 28px;
 }
 .vayana-desc span {
     background-color: #96DBC6;
@@ -138,7 +139,6 @@ margin-right: 30px;
     letter-spacing: 0.03em;
     padding-bottom: 30px;
     font-weight: 400;
-    padding-top: 29px;
 }
 .vayana-text {
     font-size: 15px;
