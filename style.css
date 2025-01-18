@@ -51,6 +51,7 @@ margin-right: 30px;
     letter-spacing: 0.03em;
     padding-bottom: 30px;
     font-weight: 400;
+    padding-top: 29px;
 }
 .mickey-text {
     font-size: 14px;
@@ -69,8 +70,8 @@ margin-right: 30px;
 }
 /*Друга секція*/
 .koko {
-    padding-top: 113px;
-    padding-bottom: 112px;  
+    padding-top: 28px;
+    padding-bottom: 28px;  
 }
 .koko-container {
     display: flex;
@@ -94,13 +95,13 @@ margin-right: 30px;
     letter-spacing: 0.03em;
     padding-bottom: 30px;
     font-weight: 400;
+    padding-top: 29px;
 }
 .koko-text {
-    font-size: 14px;
+    font-size: 29px;
     line-height: 158%;
     color: #101010;
-    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
-    padding-bottom: 35px;
+    padding-bottom: 29px;
 }
 .koko-link {
     background-color: #EBA789;
@@ -137,12 +138,12 @@ margin-right: 30px;
     letter-spacing: 0.03em;
     padding-bottom: 30px;
     font-weight: 400;
+    padding-top: 29px;
 }
 .vayana-text {
     font-size: 15px;
     line-height: 158%;
     color: #101010;
-    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
     padding-bottom: 35px;
 }
 .vayana-link {
