@@ -69,26 +69,26 @@ margin-right: 30px;
     border-radius: 8px;
 }
 /*Друга секція*/
-.koko {
+.coco {
     padding-top: 28px;
     padding-bottom: 28px;  
 }
-.koko-container {
+.coco-container {
     display: flex;
-    gap: 139px;
+    gap: 113px;
 }
-.koko-desc {
+.coco-desc {
     font-size: 1px;
     color: #101010;
     line-height: 184%;
     display: flex;
-    align-items: center;
+    align-items: center; 
 }
-.koko-desc span {
+.coco-desc span {
     background-color: #EBA789;
     margin-right: 21px;
 }
-.koko-title {
+.coco-title {
     color: #101010;
     line-height: 130%;
     font-size: 35px;
@@ -97,13 +97,13 @@ margin-right: 30px;
     font-weight: 400;
     padding-top: 29px;
 }
-.koko-text {
+.coco-text {
     font-size: 29px;
     line-height: 158%;
     color: #101010;
-    padding-bottom: 29px;
+    padding-bottom: 35px;
 }
-.koko-link {
+.coco-link {
     background-color: #EBA789;
     color: #000000;
     font-size: 16px;
